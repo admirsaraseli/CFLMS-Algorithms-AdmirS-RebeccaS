@@ -1,0 +1,14 @@
+Guess the number game with a Computer
+
+Computer is thinking of a number (CN) it can any from 1 to N
+
+Input number 1 to N
+IF number equals CN then OUTPUT Game Win
+
+ELSE 
+	number is lower then CN
+	OUTPUT N is lower then go to input number 1 to N until answer equals CN
+	
+ELSE 
+	number is higher then CN
+	OUTPUT N is higher then go to input number 1 to N until answer equals CN
